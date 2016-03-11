@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/idorovskikh/ba_qa_repos/InstagramAndroid/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/idorovskikh/ba_qa_repos/InstagramAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-ecce054fa53727c5e2e1e685f0745852ec353a33.jar" />
+    </item>
+    <item
+        jar="/Users/idorovskikh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/idorovskikh/ba_qa_repos/InstagramAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-c86ac18335db926f8bee8791a588d5c2b95beb98.jar" />
+    </item>
+    <item
+        jar="/Users/idorovskikh/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/idorovskikh/ba_qa_repos/InstagramAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.13.0-0eb39ae8658f47d7c49eadeee21c77752e2e252d.jar" />
+    </item>
+    <item
+        jar="/Users/idorovskikh/ba_qa_repos/InstagramAndroid/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/idorovskikh/ba_qa_repos/InstagramAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-c1b2fc64417b4a510846b0b500b452f9ce6ac847.jar" />
+    </item>
+    <item
+        jar="/Users/idorovskikh/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/idorovskikh/ba_qa_repos/InstagramAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-0f34d36ea8b346344251870c404f73af8775c8bf.jar" />
+    </item>
+    <item
+        jar="/Users/idorovskikh/ba_qa_repos/InstagramAndroid/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/idorovskikh/ba_qa_repos/InstagramAndroid/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-13f5e9801c835147a68d3c252fac21d58f650e54.jar" />
+    </item>
+
+</items>
